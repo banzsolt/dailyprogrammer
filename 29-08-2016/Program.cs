@@ -18,12 +18,19 @@ namespace _29_08_2016
             var input = Console.ReadLine();
             while (input != "q")
             {
-                Bonus(input);
+                Console.WriteLine("With bonus? Y/N");
+                var withBonus = Console.ReadLine();
+                if (withBonus.ToLower() == "y")
+                {
+                    Bonus(input);
+                }
+                else
+                {
+                    var highestBase = HighestBase(input);
+                    var value = RevertToBase10(input, highestBase);
 
-                //var highestBase = HighestBase(input);
-                //var value = RevertToBase10(input, highestBase);
-
-                //Console.WriteLine("base {0} => {1}", highestBase, value);
+                    Console.WriteLine("base {0} => {1}", highestBase, value);
+                }
                 input = Console.ReadLine();
             }
         }
