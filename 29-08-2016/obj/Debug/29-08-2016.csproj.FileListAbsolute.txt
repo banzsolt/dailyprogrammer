@@ -1,0 +1,6 @@
+C:\Users\Zsolti\Documents\Projects\dailyprogrammer\29-08-2016\bin\Debug\29-08-2016.exe.config
+C:\Users\Zsolti\Documents\Projects\dailyprogrammer\29-08-2016\bin\Debug\29-08-2016.exe
+C:\Users\Zsolti\Documents\Projects\dailyprogrammer\29-08-2016\bin\Debug\29-08-2016.pdb
+C:\Users\Zsolti\Documents\Projects\dailyprogrammer\29-08-2016\obj\Debug\29-08-2016.csprojResolveAssemblyReference.cache
+C:\Users\Zsolti\Documents\Projects\dailyprogrammer\29-08-2016\obj\Debug\29-08-2016.exe
+C:\Users\Zsolti\Documents\Projects\dailyprogrammer\29-08-2016\obj\Debug\29-08-2016.pdb
